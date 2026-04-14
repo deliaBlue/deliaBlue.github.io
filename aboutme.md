@@ -1,17 +1,57 @@
 ---
 layout: page
 title: About me
-subtitle: A brief personal description
+subtitle: Generic Answers to Generic Questions
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Since the typical "_About me_" pages are boring, here is a FAQ nobody
+requested.
 
-### Education
+### **Who are you?**
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+A person on the internet with opinions, projects, a suspicious number of tabs
+open, and a website, which is either admirable or a warning sign.
 
-### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+### **What is this site?**
+
+Part notebook, part archive, part public record of things I decided to care
+about.
+
+### **What do you like?**
+
+Useful things, elegant ideas, quiet competence, and humor with a pulse.
+
+### **What do you do?**
+
+Mostly: learn, build, write, fix, and repeat. Occasionally start things that
+become more complicated than they had any right to be.
+
+### **What are you interested in?**
+
+Good tools, clear thinking, elegant solutions, the kind of projects that begin
+as "this should be simple" and absolutely are not, and whatever else happens to
+be winning my attention this week.
+
+### **Why does this page exist?**
+
+To satisfy both convention and curiosity, without forcing anyone to read a
+grand personal myth.
+
+### **Why isn't there a proper bio here?**
+
+Because mystery is free and self-branding is exhausting.
+
+### **Are these polished, complete thoughts?**
+
+Some are. Others are still in the charming stage known as "in progress." But
+they are honest attempts, which is more than can be said for a lot of internet
+writing.
+
+### **Is this a portfolio?**
+
+In the loosest possible sense: it contains things I made and chose not to hide.
+
+### **What is this site not?**
+
+A personal brand monument, a productivity shrine, or evidence that I have my
+entire life sorted out.
