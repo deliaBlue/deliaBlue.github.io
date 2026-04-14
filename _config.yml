@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll@6.0.1
-title: My website
-author: Ferran Aran
+title: My corner in this world
+author: Iris Mestres-Pascual
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -16,12 +16,8 @@ navbar-links:
 # --- Logo --- #
 ################
 
-# Image to show in the navigation bar - works best with a square image
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/images/ferran.jpeg"
-
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# Image to show in the navigation bar
+avatar: "/images/id.jpg"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -33,36 +29,10 @@ round-avatar: true
 #####################################
 
 # Select the social network links that you want to show in the footer.
-# You can change the order that they show up on the page by changing the order here.
-# Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranaran
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+  email: "iris.mepa13@gmail.com"
+  github: deliaBlue
+  spotify: dBlue
 
 ###########################
 # --- General options --- #
@@ -70,14 +40,11 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+  spotify: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+url-pretty: "Bring me home"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -95,15 +62,12 @@ feed_show_tags: true
 post_search: true
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
 navbar-var-length: false
-
-# The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
 
 ######################################
 # --- Colours / background image --- #
@@ -111,24 +75,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
-
-# Alternatively, the navbar, footer, and page background can be set to an image
-# instead of colour
-
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-col: "#303030" #
+text-col: "#E3E3E3" #
+link-col: "#8D77D4"
+hover-col: "#883CB4" #
+navbar-col: "#000000" #
+navbar-text-col: "#E3E3E3" #
+navbar-border-col: "#000000" #
+footer-col: "#000000" #
+footer-text-col: "#C9C9C9" #
+footer-link-col: "#E3E3E3" #
+footer-hover-col: "#883CB4" #
 
 
 ################
@@ -183,4 +140,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
+# Beautiful Jekyll / Iris Mestres-Pascual
