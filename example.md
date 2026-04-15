@@ -1,10 +1,18 @@
 ---
 layout: page
-title: Example
-subtitle: An example page
+title: The Example Page
+subtitle: A page created to justify its own existence
 ---
 
-This is an example page, if you want to delete it follow this steps:
+This is an example page.
 
-1. Delete the file `example.md` in the root directory of your repository.
-2. Edit the file `_config.yml` and remove the line `Example Page: "example"` from the `navbar-links:` list.
+It exists to demonstrate that this website can, in fact, contain a page with a
+title, a subtitle, and a few paragraphs arranged in a reasonably civilized
+manner.
+
+In a more ambitious life, this space could hold documentation, notes,
+announcements, or something with a stronger claim to importance. For now, it is
+mainly serving as a quiet, functional placeholder.
+
+Not every page needs a grand purpose. Some are simply here so the rest of the
+site can point at them and say, "See? Like that."
