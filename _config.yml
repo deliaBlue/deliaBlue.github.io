@@ -142,6 +142,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-scholar
 
+requires:
+  - jekyll-scholar
+
 scholar:
   style: apa
   locale: en
