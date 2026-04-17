@@ -142,7 +142,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-scholar
 
-requires:
+require:
   - jekyll-scholar
 
 scholar:
