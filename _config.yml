@@ -140,15 +140,5 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-scholar
-
-require:
-  - jekyll-scholar
-
-scholar:
-  style: apa
-  locale: en
-  source: ./_bibliography
-  bibliography: refs.bib
 
 # Beautiful Jekyll / Iris Mestres-Pascual
